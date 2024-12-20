@@ -1,4 +1,4 @@
 # Demo
-This is my first git-hub repository
+This is my first git-hub repository.
 <br>
-author - krual kadgaye
+author - krunal kadgaye
